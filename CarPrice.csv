@@ -1,0 +1,205 @@
+car_ID,CarName,carbody,drivewheel,wheelbase,carlength,carwidth,carheight,horsepower,price,engine ,engine cc,mileage,mileage kmpl
+1,alfa-romero giulia,convertible,rwd,88.6,168.8,64.1,48.8,111,13495,1248 CC,1248,23.4 kmpl,23.4
+2,alfa-romero stelvio,convertible,rwd,88.6,168.8,64.1,48.8,111,16500,1249 CC,1249,21.14 kmpl,21.14
+3,alfa-romero Quadrifoglio,hatchback,rwd,94.5,171.2,65.5,52.4,154,16500,1250 CC,1250,17.7 kmpl,17.7
+4,audi 100 ls,sedan,fwd,99.8,176.6,66.2,54.3,102,13950,1251 CC,1251,23.0 kmpl,23
+5,audi 100ls,sedan,4wd,99.4,176.6,66.4,54.3,115,17450,1252 CC,1252,16.1 kmpl,16.1
+6,audi fox,sedan,fwd,99.8,177.3,66.3,53.1,110,15250,1253 CC,1253,20.14 kmpl,20.14
+7,audi 100ls,sedan,fwd,105.8,192.7,71.4,55.7,110,17710,1254 CC,1254,17.3 kmpl,17.3
+8,audi 5000,wagon,fwd,105.8,192.7,71.4,55.7,110,18920,1255 CC,1255,16.1 kmpl,16.1
+9,audi 4000,sedan,fwd,105.8,192.7,71.4,55.9,140,23875,1256 CC,1256,23.59 kmpl,23.59
+10,audi 5000s (diesel),hatchback,4wd,99.5,178.2,67.9,52,160,17859.167,1257 CC,1257,20.0 kmpl,20
+11,bmw 320i,sedan,rwd,101.2,176.8,64.8,54.3,101,16430,1258 CC,1258,19.01 kmpl,19.01
+12,bmw 320i,sedan,rwd,NA,176.8,64.8,54.3,101,16925,1259 CC,1259,17.3 kmpl,17.3
+13,bmw x1,sedan,rwd,101.2,176.8,64.8,54.3,121,20970,1260 CC,1260,19.3 kmpl,19.3
+14,bmw x3,sedan,rwd,101.2,176.8,64.8,54.3,121,21105,,,,
+15,bmw z4,sedan,rwd,103.5,189,66.9,55.7,121,24565,1061 CC,1061,18.9 kmpl,18.9
+16,bmw x4,sedan,rwd,103.5,189,66.9,55.7,182,NA,1198 CC,1198,18.15 kmpl,18.15
+17,bmw x5,sedan,rwd,103.5,193.8,67.9,53.7,182,41315,1248 CC,1248,24.52 kmpl,24.52
+18,bmw x3,sedan,rwd,110,197,70.9,56.3,182,36880,1396 CC,1396,23.0 kmpl,23
+19,chevrolet impala,hatchback,fwd,88.4,141.1,60.3,53.2,48,5151,796 CC,796,19.7 kmpl,19.7
+20,chevrolet monte carlo,hatchback,fwd,94.5,155.9,63.6,52,70,6295,1396 CC,1396,22.54 kmpl,22.54
+21,chevrolet vega 2300,sedan,fwd,94.5,158.8,63.6,52,70,6575,1461 CC,1461,21.0 kmpl,21
+22,dodge rampage,hatchback,fwd,93.7,157.3,63.8,50.8,68,5572,1498 CC,1498,25.5 kmpl,25.5
+23,dodge challenger se,hatchback,fwd,93.7,157.3,63.8,50.8,68,6377,1248 CC,1248,26.59 kmpl,26.59
+24,dodge d200,hatchback,fwd,93.7,157.3,63.8,50.8,102,7957,1248 CC,1248,21.5 kmpl,21.5
+25,dodge monaco (sw),hatchback,rwd,93.7,157.3,63.8,50.6,68,6229,1199 CC,1199,20.3 kmpl,20.3
+26,dodge colt hardtop,sedan,fwd,93.7,157.3,63.8,50.6,68,6692,1197 CC,1197,21.4 kmpl,21.4
+27,dodge colt (sw),sedan,fwd,93.7,157.3,63.8,50.6,68,7609,796 CC,796,24.7 kmpl,24.7
+28,dodge coronet custom,sedan,fwd,93.7,157.3,63.8,50.6,102,8558,1248 CC,1248,18.2 kmpl,18.2
+29,dodge dart custom,wagon,fwd,103.3,174.6,64.6,59.8,88,8921,1061 CC,1061,18.9 kmpl,18.9
+30,dodge coronet custom (sw),hatchback,fwd,95.9,173.2,66.3,50.2,145,12964,796 CC,796,16.8 kmpl,16.8
+31,honda civic,hatchback,fwd,86.6,144.6,63.9,50.8,58,6479,1248 CC,1248,24.3 kmpl,24.3
+32,honda civic cvcc,hatchback,fwd,86.6,144.6,63.9,50.8,76,6855,,,,
+33,honda civic,hatchback,fwd,93.7,150,64,52.6,60,5399,796 CC,796,14.0 kmpl,14
+34,honda accord cvcc,hatchback,fwd,93.7,150,64,52.6,76,6529,1197 CC,1197,18.6 kmpl,18.6
+35,honda civic cvcc,hatchback,fwd,93.7,150,64,52.6,76,7129,1248 CC,1248,24.3 kmpl,24.3
+36,honda accord lx,sedan,fwd,96.5,163.4,64,54.5,76,7295,796 CC,796,33.44 km/kg,33.44
+37,honda civic 1500 gl,wagon,fwd,96.5,157.1,63.9,58.3,76,7295,998 CC,998,23.95 kmpl,23.95
+38,honda accord,hatchback,fwd,96.5,167.5,65.2,53.3,86,7895,1591 CC,1591,17.0 kmpl,17
+39,honda civic 1300,hatchback,fwd,96.5,167.5,65.2,53.3,86,9095,1198 CC,1198,20.63 kmpl,20.63
+40,honda prelude,sedan,fwd,NA,175.4,65.2,54.1,86,8845,2179 CC,2179,13.93 kmpl,13.93
+41,honda accord,sedan,fwd,96.5,175.4,62.5,54.1,86,10295,796 CC,796,16.1 kmpl,16.1
+42,honda civic,sedan,fwd,96.5,175.4,65.2,54.1,101,12945,1368 CC,1368,16.0 kmpl,16
+43,honda civic (auto),sedan,fwd,96.5,169.1,66,51,100,10345,1497 CC,1497,17.8 kmpl,17.8
+44,isuzu MU-X,sedan,rwd,94.3,170.7,61.8,53.5,78,6785,1497 CC,1497,16.8 kmpl,16.8
+45,isuzu D-Max ,sedan,fwd,94.5,155.9,63.6,52,70,8916.5,1197 CC,1197,18.5 kmpl,18.5
+46,isuzu D-Max V-Cross,sedan,fwd,94.5,155.9,63.6,52,70,8916.5,1248 CC,1248,24.3 kmpl,24.3
+47,isuzu D-Max ,hatchback,rwd,96,172.6,65.2,51.4,90,11048,998 CC,998,23.95 kmpl,23.95
+48,jaguar xj,sedan,rwd,113,199.6,69.6,52.8,176,32250,2982 CC,2982,12.55 kmpl,12.55
+49,jaguar xf,sedan,rwd,113,199.6,69.6,52.8,176,35550,2494 CC,2494,12.99 kmpl,12.99
+50,jaguar xk,sedan,rwd,102,191.7,70.6,47.8,262,36000,2143 CC,2143,14.8 kmpl,14.8
+51,maxda rx3,hatchback,fwd,93.1,159.1,64.2,54.1,68,5195,1498 CC,1498,24.7 kmpl,24.7
+52,maxda glc deluxe,hatchback,fwd,93.1,159.1,64.2,54.1,68,6095,2477 CC,2477,13.5 kmpl,13.5
+53,mazda rx2 coupe,hatchback,fwd,93.1,159.1,64.2,54.1,68,6795,1498 CC,1498,26.0 kmpl,26
+54,mazda rx-4,sedan,fwd,93.1,166.8,64.2,54.1,68,6695,1462 CC,1462,20.65 kmpl,20.65
+55,mazda glc deluxe,sedan,fwd,93.1,166.8,64.2,54.1,68,7395,1498 CC,1498,27.3 kmpl,27.3
+56,mazda 626,hatchback,rwd,95.3,169,65.7,49.6,101,10945,2755 CC,2755,11.36 kmpl,11.36
+57,mazda glc,hatchback,rwd,95.3,169,65.7,49.6,101,11845,2494 CC,2494,12.99 kmpl,12.99
+58,mazda rx-7 gs,hatchback,rwd,95.3,169,65.7,49.6,101,13645,1968 CC,1968,17.68 kmpl,17.68
+59,mazda glc 4,hatchback,rwd,95.3,169,65.7,49.6,135,15645,1798 CC,1798,14.28 kmpl,14.28
+60,mazda 626,hatchback,fwd,98.8,177.8,66.5,53.7,84,8845,1968 CC,1968,18.53 kmpl,18.53
+61,mazda glc custom l,sedan,fwd,98.8,NA,66.5,55.5,84,8495,2143 CC,2143,14.84 kmpl,14.84
+62,mazda glc custom,hatchback,fwd,98.8,177.8,66.5,53.7,84,10595,1248 CC,1248,21.12 kmpl,21.12
+63,mazda rx-4,sedan,fwd,98.8,177.8,66.5,55.5,84,10245,1197 CC,1197,20.36 kmpl,20.36
+64,mazda glc deluxe,sedan,fwd,98.8,177.8,66.5,55.5,64,10795,1396 CC,1396,21.27 kmpl,21.27
+65,mazda 626,hatchback,fwd,98.8,177.8,66.5,55.5,84,11245,1248 CC,1248,26.59 kmpl,26.59
+66,mazda glc,sedan,rwd,104.9,175,66.1,54.4,120,18280,1196 CC,1196,18.16 kmpl,18.16
+67,mazda rx-7 gs,sedan,rwd,104.9,175,66.1,54.4,72,18344,1197 CC,1197,21.4 kmpl,21.4
+68,buick electra 225 custom,sedan,rwd,110,190.9,70.3,56.5,123,25552,1498 CC,1498,22.0 kmpl,22
+69,buick century luxus (sw),wagon,rwd,110,190.9,70.3,58.7,123,28248,1498 CC,1498,25.1 kmpl,25.1
+70,buick century,hardtop,rwd,106.7,187.5,70.3,54.9,123,28176,998 CC,998,20.51 kmpl,20.51
+71,buick skyhawk,sedan,rwd,115.6,202.6,71.7,56.3,123,31600,1498 CC,1498,21.66 kmpl,21.66
+72,buick opel isuzu deluxe,sedan,rwd,115.6,202.6,71.7,56.5,155,34184,1248 CC,1248,24.3 kmpl,24.3
+73,buick skylark,convertible,rwd,96.6,180.3,70.5,50.8,155,35056,1248 CC,1248,24.3 kmpl,24.3
+74,buick century special,sedan,rwd,120.9,208.1,71.7,56.7,184,40960,1197 CC,1197,20.36 kmpl,20.36
+75,buick regal sport coupe (turbo),hardtop,rwd,112,199.2,72,55.4,184,45400,1248 CC,1248,25.2 kmpl,25.2
+76,mercury cougar,hatchback,rwd,102.7,178.4,68,54.8,175,16503,2982 CC,2982,12.55 kmpl,12.55
+77,mitsubishi mirage,hatchback,fwd,93.7,157.3,64.4,50.8,68,5389,1248 CC,1248,22.9 kmpl,22.9
+78,mitsubishi lancer,hatchback,fwd,93.7,157.3,64.4,50.8,68,6189,1373 CC,1373,16.02 kmpl,16.02
+79,mitsubishi outlander,hatchback,fwd,93.7,157.3,64.4,50.8,68,6669,,,,
+80,mitsubishi g4,hatchback,fwd,93,157.3,63.8,50.8,102,7689,1598 CC,1598,20.54 kmpl,20.54
+81,mitsubishi mirage g4,hatchback,fwd,96.3,173,65.4,49.4,116,9959,2494 CC,2494,12.99 kmpl,12.99
+82,mitsubishi g4,hatchback,fwd,96.3,173,65.4,49.4,88,8499,1498 CC,1498,22.77 kmpl,22.77
+83,mitsubishi outlander,hatchback,fwd,95.9,173.2,66.3,50.2,145,12629,1998 CC,1998,15.71 kmpl,15.71
+84,mitsubishi g4,hatchback,fwd,95.9,173.2,66.3,NA,145,14869,998 CC,998,23.1 kmpl,23.1
+85,mitsubishi mirage g4,hatchback,fwd,95.9,173.2,66.3,50.2,145,14489,1198 CC,1198,19.02 kmpl,19.02
+86,mitsubishi montero,sedan,fwd,96.3,172.4,65.4,51.6,88,6989,796 CC,796,24.7 kmpl,24.7
+87,mitsubishi pajero,sedan,fwd,96.3,172.4,65.4,51.6,88,8189,796 CC,796,24.7 kmpl,24.7
+88,mitsubishi outlander,sedan,fwd,NA,172.4,65.4,51.6,116,9279,,,,
+89,mitsubishi mirage g4,sedan,fwd,96.3,172.4,65.4,51.6,116,9279,1086 CC,1086,19.81 kmpl,19.81
+90,Nissan versa,sedan,fwd,94.5,165.3,63.8,54.5,69,5499,796 CC,796,14.0 kmpl,14
+91,nissan gt-r,sedan,fwd,94.5,165.3,63.8,54.5,55,7099,998 CC,998,26.2 km/kg,26.2
+92,nissan rogue,sedan,fwd,94.5,165.3,63.8,54.5,69,6649,1198 CC,1198,16.47 kmpl,16.47
+93,nissan latio,sedan,fwd,94.5,165.3,63.8,54.5,69,6849,1086 CC,1086,19.81 kmpl,19.81
+94,nissan titan,wagon,fwd,94.5,170.2,63.8,53.5,69,7349,1598 CC,1598,15.04 kmpl,15.04
+95,nissan leaf,sedan,fwd,94.5,165.3,63.8,54.5,69,7299,998 CC,998,18.2 kmpl,18.2
+96,nissan juke,hatchback,fwd,94.5,165.6,63.8,53.3,69,7799,1197 CC,1197,18.5 kmpl,18.5
+97,nissan latio,sedan,fwd,94.5,165.3,63.8,54.5,69,7499,1248 CC,1248,26.59 kmpl,26.59
+98,nissan note,wagon,fwd,94.5,170.2,63.8,53.5,69,7999,1197 CC,1197,19.1 kmpl,19.1
+99,nissan clipper,hardtop,fwd,95.1,162.4,63.8,53.3,69,8249,796 CC,796,19.7 kmpl,19.7
+100,nissan rogue,hatchback,fwd,97.2,173.4,65.2,54.7,97,8949,1396 CC,1396,22.54 kmpl,22.54
+101,nissan nv200,sedan,fwd,97.2,173.4,65.2,54.7,97,9549,998 CC,998,21.79 kmpl,21.79
+102,nissan dayz,sedan,fwd,100.4,181.7,66.5,55.1,152,13499,1248 CC,1248,18.8 kmpl,18.8
+103,nissan fuga,wagon,fwd,100.4,184.6,66.5,56.1,152,14399,1197 CC,1197,21.21 kmpl,21.21
+104,nissan otti,sedan,fwd,100.4,184.6,66.5,55.1,152,13499,1196 CC,1196,15.37 kmpl,15.37
+105,nissan teana,hatchback,rwd,91.3,170.7,67.9,49.7,160,17199,1197 CC,1197,21.4 kmpl,21.4
+106,nissan kicks,hatchback,rwd,91.3,170.7,67.9,49.7,200,19699,2179 CC,2179,11.79 kmpl,11.79
+107,nissan clipper,hatchback,rwd,99.2,178.5,67.9,49.7,160,18399,1194 CC,1194,19.0 kmpl,19
+108,peugeot 504,sedan,rwd,107.9,186.7,68.4,56.7,97,11900,1591 CC,1591,17.0 kmpl,17
+109,peugeot 304,sedan,rwd,107.9,186.7,68.4,56.7,95,13200,1798 CC,1798,14.3 kmpl,14.3
+110,peugeot 504 (sw),wagon,rwd,114.2,198.9,68.4,58.7,97,12440,1172 CC,1172,15.8 kmpl,15.8
+111,peugeot 504,wagon,rwd,114.2,198.9,68.4,58.7,95,13860,2179 CC,2179,15.1 kmpl,15.1
+112,peugeot 504,sedan,rwd,107.9,186.7,68.4,56.7,NA,15580,1405 CC,1405,19.09 kmpl,19.09
+113,peugeot 604sl,sedan,rwd,107.9,186.7,68.4,56.7,95,16900,1582 CC,1582,22.32 kmpl,22.32
+114,peugeot 504,wagon,rwd,114.2,198.9,68.4,56.7,95,16695,1396 CC,1396,21.9 kmpl,21.9
+115,peugeot 505s turbo diesel,wagon,rwd,114.2,198.9,68.4,58.7,95,17075,1798 CC,1798,14.53 kmpl,14.53
+116,peugeot 504,sedan,rwd,107.9,186.7,68.4,56.7,97,16630,998 CC,998,21.63 kmpl,21.63
+117,peugeot 504,sedan,rwd,107.9,186.7,68.4,56.7,95,17950,1248 CC,1248,24.3 kmpl,24.3
+118,peugeot 604sl,sedan,rwd,108,186.7,68.3,56,142,18150,1197 CC,1197,20.85 kmpl,20.85
+119,plymouth fury iii,hatchback,fwd,93.7,157.3,63.8,50.8,68,5572,998 CC,998,20.51 kmpl,20.51
+120,plymouth cricket,hatchback,fwd,93.7,157.3,63.8,50.8,102,7957,,,,
+121,plymouth fury iii,hatchback,fwd,93.7,157.3,63.8,50.6,68,6229,1461 CC,1461,20.45 kmpl,20.45
+122,plymouth satellite custom (sw),sedan,fwd,93.7,167.3,63.8,50.8,68,6692,1582 CC,1582,19.67 kmpl,19.67
+123,plymouth fury gran sedan,sedan,fwd,93.7,167.3,63.8,50.8,68,7609,1498 CC,1498,23.0 kmpl,23
+124,plymouth valiant,wagon,fwd,103.3,174.6,64.6,59.8,88,8921,1248 CC,1248,19.3 kmpl,19.3
+125,plymouth duster,hatchback,rwd,95.9,173.2,66.3,50.2,145,12764,999 CC,999,23.01 kmpl,23.01
+126,porsche macan,hatchback,rwd,94.5,168.9,68.3,50.2,143,22018,998 CC,998,23.1 kmpl,23.1
+127,porcshce panamera,hardtop,rwd,89.5,168.9,65,51.6,207,32528,796 CC,796,19.7 kmpl,19.7
+128,porsche cayenne,hardtop,rwd,89.5,168.9,65,51.6,207,34028,1248 CC,1248,20.77 kmpl,20.77
+129,porsche boxter,convertible,rwd,89.5,168.9,65,51.6,207,37028,1086 CC,1086,17.92 kmpl,17.92
+130,porsche cayenne,hatchback,rwd,98.4,175.7,72.3,50.5,288,31400.5,1248 CC,1248,20.77 kmpl,20.77
+131,renault 12tl,wagon,fwd,96.1,181.5,66.5,55.2,90,9295,1198 CC,1198,17.8 kmpl,17.8
+132,renault 5 gtl,hatchback,fwd,96.1,176.8,66.6,50.5,90,9895,1968 CC,1968,17.01 kmpl,17.01
+133,saab 99e,hatchback,fwd,99.1,186.6,66.5,56.1,110,11850,2487 CC,2487,22.37 kmpl,22.37
+134,saab 99le,sedan,fwd,99.1,186.6,66.5,56.1,110,12170,1999 CC,1999,19.33 kmpl,19.33
+136,saab 99gle,sedan,fwd,99.1,186.6,66.5,56.1,110,15510,1999 CC,1999,12.83 kmpl,12.83
+137,saab 99gle,hatchback,fwd,99.1,186.6,66.5,56.1,160,18150,2987 CC,2987,13.5 kmpl,13.5
+138,saab 99e,sedan,fwd,99.1,186.6,66.5,56.1,160,18620,1995 CC,1995,22.48 kmpl,22.48
+139,subaru,hatchback,fwd,93.7,156.9,63.4,53.7,69,5118,,,,
+140,subaru dl,hatchback,fwd,93.7,157.9,63.6,53.7,73,7053,1995 CC,1995,16.78 kmpl,16.78
+141,subaru dl,hatchback,4wd,93.3,157.3,63.8,55.7,73,7603,1798 CC,1798,14.67 kmpl,14.67
+142,subaru,sedan,fwd,97.2,172,65.4,52.5,82,7126,2143 CC,2143,15.0 kmpl,15
+143,subaru brz,sedan,fwd,97.2,172,65.4,52.5,82,7775,1451 CC,1451,13.96 kmpl,13.96
+144,subaru baja,sedan,fwd,97.2,172,65.4,52.5,94,9960,1497 CC,1497,18.0 kmpl,18
+145,subaru r1,sedan,4wd,97,172,65.4,54.3,82,9233,1798 CC,1798,14.28 kmpl,14.28
+146,subaru r2,sedan,4wd,97,172,65.4,54.3,111,11259,1969 CC,1969,18.0 kmpl,18
+147,subaru trezia,wagon,fwd,97,173.5,65.4,53,82,7463,2967 CC,2967,12.07 kmpl,12.07
+148,subaru tribeca,wagon,fwd,97,173.5,65.4,53,94,10198,1248 CC,1248,26.21 kmpl,26.21
+149,subaru dl,wagon,4wd,96.9,173.6,65.4,54.9,82,8013,2987 CC,2987,13.5 kmpl,13.5
+150,subaru dl,wagon,4wd,96.9,173.6,65.4,54.9,111,11694,2497 CC,2497,10.8 kmpl,10.8
+151,toyota corona mark ii,hatchback,fwd,95.7,158.7,63.6,54.5,62,5348,1797 CC,1797,16.3 kmpl,16.3
+152,toyota corona,hatchback,fwd,95.7,158.7,63.6,54.5,62,6338,1999 CC,1999,13.6 kmpl,13.6
+153,toyota corolla 1200,hatchback,fwd,95.7,158.7,63.6,54.5,62,6488,1198 CC,1198,17.0 kmpl,17
+154,toyota corona hardtop,wagon,fwd,95.7,169.7,63.6,59.1,62,6918,1598 CC,1598,15.04 kmpl,15.04
+155,toyota corolla 1600 (sw),wagon,4wd,95.7,169.7,63.6,59.1,62,7898,1797 CC,1797,16.3 kmpl,16.3
+156,toyota carina,wagon,4wd,95.7,169.7,63.6,59.1,62,8778,1598 CC,1598,14.3 kmpl,14.3
+157,toyota mark ii,sedan,fwd,95.7,166.3,64.4,53,70,6938,1991 CC,1991,15.04 kmpl,15.04
+158,toyota corolla 1200,hatchback,fwd,95.7,166.3,64.4,52.8,70,7198,1373 CC,1373,16.02 kmpl,16.02
+159,toyota corona,sedan,fwd,95.7,166.3,64.4,53,56,7898,1991 CC,1991,14.74 kmpl,14.74
+160,toyota corolla,hatchback,fwd,95.7,166.3,64.4,52.8,56,7788,1497 CC,1497,15.6 kmpl,15.6
+161,toyota corona,sedan,fwd,NA,166.3,64.4,53,70,7738,1197 CC,1197,19.56 kmpl,19.56
+162,toyota corolla,hatchback,fwd,95.7,166.3,64.4,52.8,70,8358,998 CC,998,23.95 kmpl,23.95
+163,toyota mark ii,sedan,fwd,95.7,166.3,64.4,52.8,70,9258,1197 CC,1197,21.21 kmpl,21.21
+164,toyota corolla liftback,sedan,rwd,94.5,168.7,64,52.6,70,8058,2755 CC,2755,11.36 kmpl,11.36
+165,toyota corona,hatchback,rwd,94.5,168.7,64,52.6,70,8238,1497 CC,1497,21.5 kmpl,21.5
+166,toyota celica gt liftback,sedan,rwd,94.5,168.7,64,52.6,112,9298,1995 CC,1995,22.69 kmpl,22.69
+167,toyota corolla tercel,hatchback,rwd,94.5,168.7,64,52.6,112,9538,2494 CC,2494,19.16 kmpl,19.16
+168,toyota corona liftback,hardtop,rwd,98.4,176.2,65.6,52,116,8449,1995 CC,1995,18.12 kmpl,18.12
+169,toyota corolla,hardtop,rwd,98.4,176.2,65.6,52,116,9639,2362 CC,2362,12.1 kmpl,12.1
+170,toyota starlet,hatchback,rwd,98.4,176.2,65.6,52,116,9989,1373 CC,1373,17.5 kmpl,17.5
+171,toyota tercel,hardtop,rwd,98.4,176.2,65.6,52,116,11199,1969 CC,1969,42.0 kmpl,42
+172,toyota corolla,hatchback,rwd,98.4,176.2,NA,52,116,11549,1598 CC,1598,20.54 kmpl,20.54
+173,toyota cressida,convertible,rwd,98.4,176.2,65.6,53,116,17669,1196 CC,1196,18.16 kmpl,18.16
+174,toyota corolla,sedan,fwd,102.4,175.6,66.5,54.9,92,8948,1399 CC,1399,20.0 kmpl,20
+175,toyota celica gt,sedan,fwd,102.4,175.6,66.5,54.9,NA,10698,1197 CC,1197,20.4 kmpl,20.4
+176,toyota corona,hatchback,fwd,102.4,175.6,66.5,53.9,92,9988,998 CC,998,20.51 kmpl,20.51
+177,toyota corolla,sedan,fwd,102.4,175.6,66.5,54.9,92,10898,1197 CC,1197,18.6 kmpl,18.6
+178,toyota mark ii,hatchback,fwd,102.4,175.6,66.5,53.9,92,11248,796 CC,796,16.1 kmpl,16.1
+179,toyota corolla liftback,hatchback,rwd,102.9,183.5,67.7,52,161,16558,1248 CC,1248,21.1 kmpl,21.1
+180,toyota corona,hatchback,rwd,102.9,183.5,67.7,52,161,15998,1197 CC,1197,18.9 kmpl,18.9
+181,toyota starlet,sedan,rwd,104.5,187.8,66.5,54.1,156,15690,999 CC,999,19.44 kmpl,19.44
+182,toyouta tercel,wagon,rwd,104.5,187.8,66.5,NA,156,15750,1197 CC,1197,18.9 kmpl,18.9
+183,vokswagen rabbit,sedan,fwd,97.3,171.7,65.5,55.7,52,7775,1197 CC,1197,19.1 kmpl,19.1
+184,volkswagen 1131 deluxe sedan,sedan,fwd,97.3,171.7,65.5,55.7,85,7975,1197 CC,1197,19.1 kmpl,19.1
+185,volkswagen model 111,sedan,fwd,97.3,171.7,65.5,55.7,52,7995,1493 CC,1493,13.0 kmpl,13
+186,volkswagen type 3,sedan,fwd,97.3,171.7,65.5,55.7,85,8195,1364 CC,1364,21.43 kmpl,21.43
+187,volkswagen 411 (sw),sedan,fwd,97.3,171.7,65.5,55.7,85,8495,796 CC,796,18.5 kmpl,18.5
+188,volkswagen super beetle,sedan,fwd,97.3,171.7,65.5,55.7,68,9495,2982 CC,2982,13.0 kmpl,13
+189,volkswagen dasher,sedan,fwd,97.3,171.7,65.5,55.7,100,9995,1198 CC,1198,18.15 kmpl,18.15
+190,vw dasher,convertible,fwd,94.5,159.3,64.2,55.6,90,11595,1248 CC,1248,22.95 kmpl,22.95
+191,vw rabbit,hatchback,fwd,94.5,165.7,64,51.4,90,9980,1497 CC,1497,17.0 kmpl,17
+192,volkswagen rabbit,sedan,fwd,100.4,180.2,66.9,55.1,110,13295,993 CC,993,17.3 kmpl,17.3
+193,volkswagen rabbit custom,sedan,fwd,100.4,180.2,66.9,55.1,68,13845,998 CC,998,18.9 kmpl,18.9
+194,volkswagen dasher,wagon,fwd,100.4,183.1,66.9,55.1,88,12290,1599 CC,1599,16.2 kmpl,16.2
+195,volvo 145e (sw),sedan,rwd,104.3,188.8,67.2,56.2,114,12940,1197 CC,1197,20.85 kmpl,20.85
+196,volvo 144ea,wagon,rwd,104.3,188.8,67.2,57.5,114,13415,1341 CC,1341,15.3 kmpl,15.3
+197,volvo 244dl,sedan,rwd,104.3,188.8,67.2,56.2,114,15985,1197 CC,1197,18.6 kmpl,18.6
+198,volvo 245,wagon,rwd,104.3,188.8,67.2,57.5,114,16515,1248 CC,1248,28.09 kmpl,28.09
+199,volvo 264gl,sedan,rwd,104.3,188.8,67.2,56.2,162,18420,1199 CC,1199,20.3 kmpl,20.3
+200,volvo diesel,wagon,rwd,NA,188.8,67.2,57.5,162,18950,1248 CC,1248,20.77 kmpl,20.77
+201,volvo 145e (sw),sedan,rwd,109.1,188.8,68.9,55.5,114,16845,,,,
+202,volvo 144ea,sedan,rwd,109.1,188.8,68.8,55.5,160,19045,1497 CC,1497,17.4 kmpl,17.4
+203,volvo 244dl,sedan,rwd,109.1,188.8,68.9,55.5,134,21485,1198 CC,1198,19.4 kmpl,19.4
+204,volvo 246,sedan,rwd,109.1,188.8,68.9,55.5,106,22470,998 CC,998,26.6 km/kg,26.6
+205,volvo 264gl,sedan,rwd,109.1,188.8,68.9,55.5,114,22625,1197 CC,1197,20.85 kmpl,20.85
